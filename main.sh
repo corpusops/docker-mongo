@@ -254,6 +254,7 @@ SKIPPED_TAGS="$SKIP_TF|$SKIP_MINOR_OS|$SKIP_NODE|$SKIP_DOCKER|$SKIP_MINIO|$SKIP_
 CURRENT_TS=$(date +%s)
 IMAGES_SKIP_NS="((mailhog|postgis|pgrouting(-bare)?|^library|dejavu|(minio/(minio|mc))))"
 
+SKIPPED_TAGS="$SKIPPED_TAGS|:2|:3\.[0-9]+"
 
 default_images="
 library/mongo
@@ -282,7 +283,7 @@ BATCHED_IMAGES="\
 library/mongo/3\
  library/mongo/2\
  library/mongo/latest\
- library/mongo/4::7   
+ library/mongo/4::7
 "
 SKIP_REFRESH_ANCESTORS=${SKIP_REFRESH_ANCESTORS-}
 
@@ -574,7 +575,9 @@ do_refresh_images() {
     while read images;do
         for image in $images;do
             if [[ -n $image ]];then
-                make_tags $image
+                if [[ -z "${SKIP_MAKE_TAGS-}" ]];then
+                    make_tags $image
+                fi
                 do_clean_tags $image
             fi
         done
