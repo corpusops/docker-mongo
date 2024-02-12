@@ -1,7 +1,8 @@
 2
 2.2
-2.2.7 3.2.5
+2.2.7
 2.4
+2.4.10
 2.4.11
 2.4.12
 2.4.13
@@ -12,15 +13,16 @@
 2.6.5
 2.6.6
 2.6.7
+2.6.8
 2.6.9
-2.6.10 3.0.1
+2.6.10
 2.6.11
 2.6.12
 2.7
 2.7.5
 2.7.6
-2.7.7 2.4.10
-2.7.8 2.6.8
+2.7.7
+2.7.8
 2.8
 2.8.0
 2.8.0-rc0
@@ -28,11 +30,13 @@
 2.8.0-rc4
 2.8.0-rc5
 3
+3-jessie
 3-stretch
 3-windowsservercore
 3-windowsservercore-1709
 3-windowsservercore-1809
 3-windowsservercore-ltsc2016
+3-xenial
 3.0
 3.0-wheezy
 3.0-windowsservercore
@@ -42,21 +46,25 @@
 3.0.0-rc6
 3.0.0-rc7
 3.0.0-rc8
+3.0.1
 3.0.2
 3.0.3
 3.0.4
 3.0.5
 3.0.6
-3.0.7 3.2-rc
+3.0.7
 3.0.8
 3.0.9
 3.0.10
 3.0.11
 3.0.12
 3.0.12-windowsservercore
+3.0.13
 3.0.13-windowsservercore
 3.0.14
+3.0.14-windowsservercore
 3.0.15
+3.0.15-wheezy
 3.0.15-windowsservercore
 3.0.15-windowsservercore-1709
 3.0.15-windowsservercore-ltsc2016
@@ -65,12 +73,16 @@
 3.1.5
 3.1.6
 3.1.7
+3.1.8
 3.1.9
+3.2
+3.2-jessie
+3.2-rc
 3.2-windowsservercore
-3.2-windowsservercore-1709 3.2.21-windowsservercore-1709
+3.2-windowsservercore-1709
 3.2-windowsservercore-ltsc2016
 3.2.0
-3.2.0-rc1 3.1.8
+3.2.0-rc1
 3.2.0-rc2
 3.2.0-rc3
 3.2.0-rc4
@@ -78,12 +90,15 @@
 3.2.1
 3.2.3
 3.2.4
+3.2.5
+3.2.6
 3.2.7
 3.2.8
 3.2.9
 3.2.9-windowsservercore
 3.2.10
 3.2.10-windowsservercore
+3.2.11
 3.2.11-windowsservercore
 3.2.12
 3.2.12-windowsservercore
@@ -95,9 +110,10 @@
 3.2.15-windowsservercore
 3.2.16
 3.2.16-jessie
-3.2.16-windowsservercore 3.5.12
+3.2.16-windowsservercore
 3.2.17
 3.2.17-jessie
+3.2.17-windowsservercore
 3.2.17-windowsservercore-1709
 3.2.17-windowsservercore-ltsc2016
 3.2.18
@@ -106,7 +122,7 @@
 3.2.18-windowsservercore-1709
 3.2.18-windowsservercore-ltsc2016
 3.2.19
-3.2.19-jessie 3.0.15-wheezy
+3.2.19-jessie
 3.2.20
 3.2.20-jessie
 3.2.20-windowsservercore
@@ -114,19 +130,22 @@
 3.2.20-windowsservercore-ltsc2016
 3.2.21
 3.2.21-jessie
-3.2.21-windowsservercore 3.2
+3.2.21-windowsservercore
+3.2.21-windowsservercore-1709
 3.2.21-windowsservercore-ltsc2016
 3.3
+3.3-windowsservercore
 3.3.5
 3.3.6
-3.3.8 3.2.6
+3.3.8
 3.3.9
 3.3.10
 3.3.11
 3.3.11-windowsservercore
 3.3.12
 3.3.12-windowsservercore
-3.3.14-windowsservercore 3.3.14
+3.3.14
+3.3.14-windowsservercore
 3.3.15
 3.3.15-windowsservercore
 3.4
@@ -139,15 +158,15 @@
 3.4-xenial
 3.4.0
 3.4.0-rc2
-3.4.0-rc2-windowsservercore 3.0.13
+3.4.0-rc2-windowsservercore
 3.4.0-rc3
 3.4.0-rc3-windowsservercore
 3.4.0-rc4
 3.4.0-rc4-windowsservercore
 3.4.0-rc5
-3.4.0-rc5-windowsservercore 3.3-windowsservercore
+3.4.0-rc5-windowsservercore
 3.4.0-windowsservercore
-3.4.1 3.2.11
+3.4.1
 3.4.1-windowsservercore
 3.4.2
 3.4.3
@@ -164,24 +183,30 @@
 3.4.9
 3.4.9-jessie
 3.4.9-windowsservercore
+3.4.10
 3.4.10-jessie
-3.4.10-windowsservercore 3.4.10
+3.4.10-windowsservercore
+3.4.10-windowsservercore-1709
 3.4.10-windowsservercore-ltsc2016
 3.4.11
 3.4.11-jessie
 3.4.12
 3.4.12-jessie
 3.4.13
+3.4.13-jessie
 3.4.14
 3.4.14-jessie
+3.4.15
 3.4.15-jessie
 3.4.16
 3.4.16-jessie
 3.4.16-windowsservercore
-3.4.16-windowsservercore-1709 3.4.16-windowsservercore-ltsc2016
+3.4.16-windowsservercore-1709
+3.4.16-windowsservercore-ltsc2016
 3.4.17
 3.4.17-jessie
 3.4.17-windowsservercore
+3.4.17-windowsservercore-1709
 3.4.17-windowsservercore-ltsc2016
 3.4.18
 3.4.18-jessie
@@ -191,17 +216,21 @@
 3.4.19
 3.4.19-jessie
 3.4.19-windowsservercore
-3.4.19-windowsservercore-1709 3.4.19-windowsservercore-ltsc2016
+3.4.19-windowsservercore-1709
+3.4.19-windowsservercore-ltsc2016
 3.4.20
 3.4.20-jessie
+3.4.20-windowsservercore
 3.4.20-windowsservercore-1709
-3.4.20-windowsservercore-ltsc2016 3.4.20-windowsservercore
-3.4.20-xenial 4.1.11-windowsservercore-ltsc2016
-3.4.21 4.2.0-rc3-windowsservercore-ltsc2016
+3.4.20-windowsservercore-ltsc2016
+3.4.20-xenial
+3.4.21
+3.4.21-windowsservercore
 3.4.21-windowsservercore-ltsc2016
 3.4.21-xenial
 3.4.22
-3.4.22-windowsservercore-ltsc2016 3.4.22-windowsservercore
+3.4.22-windowsservercore
+3.4.22-windowsservercore-ltsc2016
 3.4.22-xenial
 3.4.23
 3.4.23-windowsservercore
@@ -209,8 +238,9 @@
 3.4.23-xenial
 3.4.24
 3.4.24-windowsservercore
-3.4.24-xenial 3.4.24-windowsservercore-ltsc2016
-3.5 3.5.13
+3.4.24-windowsservercore-ltsc2016
+3.4.24-xenial
+3.5
 3.5-jessie
 3.5-windowsservercore
 3.5-windowsservercore-1709
@@ -218,30 +248,35 @@
 3.5.5
 3.5.5-windowsservercore
 3.5.6
-3.5.6-windowsservercore 3.0.14-windowsservercore
+3.5.6-windowsservercore
 3.5.7
 3.5.7-windowsservercore
-3.5.8 3.5.8-windowsservercore
+3.5.8
+3.5.8-windowsservercore
 3.5.9
 3.5.9-windowsservercore
-3.5.10 3.5.10-windowsservercore
+3.5.10
+3.5.10-windowsservercore
 3.5.11
 3.5.11-windowsservercore
+3.5.12
 3.5.12-windowsservercore
+3.5.13
 3.5.13-jessie
-3.5.13-windowsservercore 3.2.17-windowsservercore
+3.5.13-windowsservercore
 3.5.13-windowsservercore-1709
 3.5.13-windowsservercore-ltsc2016
+3.6
 3.6-jessie
 3.6-rc
 3.6-rc-jessie
 3.6-rc-windowsservercore-1709
 3.6-stretch
-3.6-windowsservercore 3.6
+3.6-windowsservercore
 3.6-windowsservercore-1709
 3.6-windowsservercore-1809
 3.6-windowsservercore-ltsc2016
-3.6-xenial 3-xenial
+3.6-xenial
 3.6.0
 3.6.0-jessie
 3.6.0-rc5
@@ -252,35 +287,39 @@
 3.6.0-rc7-jessie
 3.6.0-rc8
 3.6.0-rc8-jessie
-3.6.0-rc8-windowsservercore-1709 rc-jessie
+3.6.0-rc8-windowsservercore-1709
 3.6.0-windowsservercore
-3.6.0-windowsservercore-1709 3.4.10-windowsservercore-1709
+3.6.0-windowsservercore-1709
 3.6.0-windowsservercore-ltsc2016
+3.6.1
 3.6.1-jessie
-3.6.1-windowsservercore 3.6.1
+3.6.1-windowsservercore
 3.6.1-windowsservercore-1709
 3.6.1-windowsservercore-ltsc2016
 3.6.2
 3.6.2-jessie
 3.6.3
-3.6.3-jessie 3.4.13-jessie
+3.6.3-jessie
 3.6.4
 3.6.4-jessie
-3.6.5 3.4.15
+3.6.5
 3.6.5-jessie
+3.6.6
 3.6.6-jessie
-3.6.6-windowsservercore 3.6.6
+3.6.6-windowsservercore
 3.6.6-windowsservercore-1709
 3.6.6-windowsservercore-ltsc2016
 3.6.7
 3.6.7-jessie
 3.6.7-stretch
-3.6.7-windowsservercore 3.6.7-windowsservercore-1709
+3.6.7-windowsservercore
+3.6.7-windowsservercore-1709
 3.6.7-windowsservercore-ltsc2016
+3.6.8
 3.6.8-stretch
-3.6.8-windowsservercore 3.6.8
+3.6.8-windowsservercore
 3.6.8-windowsservercore-1709
-3.6.8-windowsservercore-ltsc2016 3.4.17-windowsservercore-1709
+3.6.8-windowsservercore-ltsc2016
 3.6.9
 3.6.9-stretch
 3.6.9-windowsservercore
@@ -295,10 +334,10 @@
 3.6.11-stretch
 3.6.11-windowsservercore
 3.6.11-windowsservercore-1709
-3.6.11-windowsservercore-ltsc2016 4.1.8-xenial
+3.6.11-windowsservercore-ltsc2016
 3.6.11-xenial
 3.6.12
-3.6.12-windowsservercore 4.1.11-bionic
+3.6.12-windowsservercore
 3.6.12-windowsservercore-1709
 3.6.12-windowsservercore-ltsc2016
 3.6.12-xenial
@@ -313,8 +352,10 @@
 3.6.15
 3.6.15-windowsservercore
 3.6.15-windowsservercore-ltsc2016
+3.6.15-xenial
 3.6.16
-3.6.16-windowsservercore-ltsc2016 3.6.16-windowsservercore
+3.6.16-windowsservercore
+3.6.16-windowsservercore-ltsc2016
 3.6.16-xenial
 3.6.17
 3.6.17-windowsservercore
@@ -345,13 +386,14 @@
 3.6.22-windowsservercore
 3.6.22-windowsservercore-1809
 3.6.22-windowsservercore-ltsc2016
+3.6.22-xenial
 3.6.23
 3.6.23-windowsservercore
 3.6.23-windowsservercore-1809
 3.6.23-windowsservercore-ltsc2016
 3.6.23-xenial
 3.7
-3.7-jessie 3.7.9-jessie
+3.7-jessie
 3.7-xenial
 3.7.1
 3.7.1-jessie
@@ -364,6 +406,7 @@
 3.7.7
 3.7.7-jessie
 3.7.9
+3.7.9-jessie
 3.7.9-xenial
 4
 4-bionic
@@ -371,9 +414,10 @@
 4-nanoserver
 4-nanoserver-1809
 4-nanoserver-ltsc2022
+4-windowsservercore
 4-windowsservercore-1709
 4-windowsservercore-1803
-4-windowsservercore-1809 4-windowsservercore
+4-windowsservercore-1809
 4-windowsservercore-ltsc2016
 4-windowsservercore-ltsc2022
 4-xenial
@@ -382,7 +426,7 @@
 4.0-nanoserver
 4.0-nanoserver-1809
 4.0-nanoserver-ltsc2022
-4.0-rc 4.4.12-rc1-windowsservercore
+4.0-rc
 4.0-rc-nanoserver
 4.0-rc-nanoserver-1809
 4.0-rc-nanoserver-ltsc2022
@@ -396,18 +440,20 @@
 4.0-windowsservercore-1803
 4.0-windowsservercore-1809
 4.0-windowsservercore-ltsc2016
+4.0-windowsservercore-ltsc2022
 4.0-xenial
 4.0.0
 4.0.0-rc0
 4.0.0-rc0-xenial
 4.0.0-rc2
 4.0.0-rc2-xenial
+4.0.0-rc4
 4.0.0-rc4-xenial
 4.0.0-rc5
-4.0.0-rc5-xenial 4.0.0-rc4
+4.0.0-rc5-xenial
 4.0.0-rc6
 4.0.0-rc6-xenial
-4.0.0-windowsservercore 4.1.1-windowsservercore-1803
+4.0.0-windowsservercore
 4.0.0-windowsservercore-1709
 4.0.0-windowsservercore-1803
 4.0.0-windowsservercore-ltsc2016
@@ -420,7 +466,7 @@
 4.0.1-windowsservercore-ltsc2016
 4.0.1-xenial
 4.0.2
-4.0.2-windowsservercore 4.1.3-windowsservercore-1803
+4.0.2-windowsservercore
 4.0.2-windowsservercore-1709
 4.0.2-windowsservercore-1803
 4.0.2-windowsservercore-ltsc2016
@@ -438,18 +484,21 @@
 4.0.4-windowsservercore-ltsc2016
 4.0.4-xenial
 4.0.5
+4.0.5-windowsservercore
 4.0.5-windowsservercore-1709
 4.0.5-windowsservercore-1803
 4.0.5-windowsservercore-ltsc2016
 4.0.5-xenial
-4.0.6-windowsservercore 4.0.6
+4.0.6
+4.0.6-windowsservercore
 4.0.6-windowsservercore-1709
 4.0.6-windowsservercore-1803
 4.0.6-windowsservercore-ltsc2016
 4.0.6-xenial
-4.0.7 unstable-xenial
-4.0.7-windowsservercore 4.0.7-windowsservercore-1803
+4.0.7
+4.0.7-windowsservercore
 4.0.7-windowsservercore-1709
+4.0.7-windowsservercore-1803
 4.0.7-windowsservercore-ltsc2016
 4.0.7-xenial
 4.0.8
@@ -465,7 +514,7 @@
 4.0.9-windowsservercore-ltsc2016
 4.0.9-xenial
 4.0.10
-4.0.10-windowsservercore 3.4.21-windowsservercore
+4.0.10-windowsservercore
 4.0.10-windowsservercore-1803
 4.0.10-windowsservercore-ltsc2016
 4.0.10-xenial
@@ -484,11 +533,12 @@
 4.0.13-windowsservercore-1803
 4.0.13-windowsservercore-1809
 4.0.13-windowsservercore-ltsc2016
-4.0.13-xenial 3.6.15-xenial
+4.0.13-xenial
+4.0.14
 4.0.14-windowsservercore
 4.0.14-windowsservercore-1809
 4.0.14-windowsservercore-ltsc2016
-4.0.14-xenial 4.0.14
+4.0.14-xenial
 4.0.15
 4.0.15-windowsservercore
 4.0.15-windowsservercore-1809
@@ -503,9 +553,10 @@
 4.0.17-windowsservercore
 4.0.17-windowsservercore-1809
 4.0.17-windowsservercore-ltsc2016
-4.0.17-xenial 4.2.3-bionic
+4.0.17-xenial
 4.0.18
-4.0.18-windowsservercore-1809 4.0.18-windowsservercore
+4.0.18-windowsservercore
+4.0.18-windowsservercore-1809
 4.0.18-windowsservercore-ltsc2016
 4.0.18-xenial
 4.0.19
@@ -513,7 +564,8 @@
 4.0.19-windowsservercore-1809
 4.0.19-windowsservercore-ltsc2016
 4.0.19-xenial
-4.0.20-windowsservercore 4.0.20
+4.0.20
+4.0.20-windowsservercore
 4.0.20-windowsservercore-1809
 4.0.20-windowsservercore-ltsc2016
 4.0.20-xenial
@@ -522,16 +574,18 @@
 4.0.21-windowsservercore-1809
 4.0.21-windowsservercore-ltsc2016
 4.0.21-xenial
-4.0.22 3.6.22-xenial
+4.0.22
 4.0.22-windowsservercore
 4.0.22-windowsservercore-1809
 4.0.22-windowsservercore-ltsc2016
 4.0.22-xenial
 4.0.23
 4.0.23-windowsservercore
-4.0.23-windowsservercore-ltsc2016 4.0.23-windowsservercore-1809
+4.0.23-windowsservercore-1809
+4.0.23-windowsservercore-ltsc2016
 4.0.23-xenial
-4.0.24-nanoserver 4.0.24
+4.0.24
+4.0.24-nanoserver
 4.0.24-nanoserver-1809
 4.0.24-windowsservercore
 4.0.24-windowsservercore-1809
@@ -540,34 +594,41 @@
 4.0.25
 4.0.25-nanoserver
 4.0.25-nanoserver-1809
-4.0.25-windowsservercore-1809 4.0.25-windowsservercore
+4.0.25-windowsservercore
+4.0.25-windowsservercore-1809
 4.0.25-windowsservercore-ltsc2016
 4.0.25-xenial
-4.0.26-nanoserver-1809 4.0.26-nanoserver
+4.0.26
+4.0.26-nanoserver
+4.0.26-nanoserver-1809
+4.0.26-rc0
 4.0.26-rc0-nanoserver
 4.0.26-rc0-nanoserver-1809
 4.0.26-rc0-windowsservercore
+4.0.26-rc0-windowsservercore-1809
 4.0.26-rc0-windowsservercore-ltsc2016
-4.0.26-rc0-xenial 4.0.26-rc0
+4.0.26-rc0-xenial
 4.0.26-windowsservercore
 4.0.26-windowsservercore-1809
 4.0.26-windowsservercore-ltsc2016
-4.0.26-xenial 4.0.26
+4.0.26-xenial
 4.0.27
 4.0.27-nanoserver
-4.0.27-nanoserver-ltsc2022 4.0.27-nanoserver-1809
+4.0.27-nanoserver-1809
+4.0.27-nanoserver-ltsc2022
 4.0.27-rc0
 4.0.27-rc0-nanoserver
 4.0.27-rc0-nanoserver-1809
 4.0.27-rc0-windowsservercore
 4.0.27-rc0-windowsservercore-1809
-4.0.27-rc0-xenial 4.0.27-rc0-windowsservercore-ltsc2016
+4.0.27-rc0-windowsservercore-ltsc2016
+4.0.27-rc0-xenial
 4.0.27-windowsservercore
 4.0.27-windowsservercore-1809
 4.0.27-windowsservercore-ltsc2016
 4.0.27-windowsservercore-ltsc2022
 4.0.27-xenial
-4.0.28 4.0-windowsservercore-ltsc2022
+4.0.28
 4.0.28-nanoserver
 4.0.28-nanoserver-1809
 4.0.28-nanoserver-ltsc2022
@@ -576,12 +637,14 @@
 4.0.28-rc0-nanoserver-1809
 4.0.28-rc0-nanoserver-ltsc2022
 4.0.28-rc0-windowsservercore
+4.0.28-rc0-windowsservercore-1809
 4.0.28-rc0-windowsservercore-ltsc2016
-4.0.28-rc0-windowsservercore-ltsc2022 4.0.28-rc0-windowsservercore-1809
+4.0.28-rc0-windowsservercore-ltsc2022
 4.0.28-rc0-xenial
 4.0.28-windowsservercore
 4.0.28-windowsservercore-1809
 4.0.28-windowsservercore-ltsc2022
+4.0.28-xenial
 4.1
 4.1-bionic
 4.1-windowsservercore
@@ -592,6 +655,7 @@
 4.1.1
 4.1.1-windowsservercore
 4.1.1-windowsservercore-1709
+4.1.1-windowsservercore-1803
 4.1.1-windowsservercore-ltsc2016
 4.1.1-xenial
 4.1.2
@@ -600,10 +664,11 @@
 4.1.2-windowsservercore-1709
 4.1.2-windowsservercore-1803
 4.1.2-windowsservercore-ltsc2016
-4.1.2-xenial 3-jessie
+4.1.2-xenial
 4.1.3
 4.1.3-windowsservercore
 4.1.3-windowsservercore-1709
+4.1.3-windowsservercore-1803
 4.1.3-windowsservercore-ltsc2016
 4.1.3-xenial
 4.1.4
@@ -616,15 +681,16 @@
 4.1.5-windowsservercore
 4.1.5-windowsservercore-1709
 4.1.5-windowsservercore-1803
-4.1.5-windowsservercore-ltsc2016 3.2-jessie
+4.1.5-windowsservercore-ltsc2016
 4.1.5-xenial
-4.1.6 4.1.6-xenial
+4.1.6
 4.1.6-windowsservercore
 4.1.6-windowsservercore-1709
 4.1.6-windowsservercore-1803
 4.1.6-windowsservercore-ltsc2016
+4.1.6-xenial
 4.1.7
-4.1.7-windowsservercore 4.0.5-windowsservercore
+4.1.7-windowsservercore
 4.1.7-windowsservercore-1709
 4.1.7-windowsservercore-1803
 4.1.7-windowsservercore-ltsc2016
@@ -634,7 +700,9 @@
 4.1.8-windowsservercore-1709
 4.1.8-windowsservercore-1803
 4.1.8-windowsservercore-ltsc2016
-4.1.9 4.1.9-bionic
+4.1.8-xenial
+4.1.9
+4.1.9-bionic
 4.1.9-windowsservercore
 4.1.9-windowsservercore-1709
 4.1.9-windowsservercore-1803
@@ -645,10 +713,12 @@
 4.1.10-windowsservercore
 4.1.10-windowsservercore-1709
 4.1.10-windowsservercore-1803
-4.1.10-windowsservercore-ltsc2016 windowsservercore-1709
+4.1.10-windowsservercore-ltsc2016
 4.1.11
+4.1.11-bionic
 4.1.11-windowsservercore
 4.1.11-windowsservercore-1803
+4.1.11-windowsservercore-ltsc2016
 4.1.12
 4.1.12-bionic
 4.1.12-windowsservercore
@@ -660,8 +730,10 @@
 4.1.13-windowsservercore-1803
 4.1.13-windowsservercore-ltsc2016
 4.2
+4.2-bionic
 4.2-nanoserver
 4.2-nanoserver-1809
+4.2-nanoserver-ltsc2022
 4.2-rc
 4.2-rc-bionic
 4.2-rc-nanoserver
@@ -671,7 +743,9 @@
 4.2-rc-windowsservercore-1803
 4.2-rc-windowsservercore-1809
 4.2-rc-windowsservercore-ltsc2016
-4.2-windowsservercore 4.2-nanoserver-ltsc2022
+4.2-rc-windowsservercore-ltsc2022
+4.2-windowsservercore
+4.2-windowsservercore-1803
 4.2-windowsservercore-1809
 4.2-windowsservercore-ltsc2016
 4.2-windowsservercore-ltsc2022
@@ -684,16 +758,19 @@
 4.2.0-rc1-windowsservercore-ltsc2016
 4.2.0-rc2
 4.2.0-rc2-bionic
-4.2.0-rc2-windowsservercore-1803 4.2.0-rc2-windowsservercore
+4.2.0-rc2-windowsservercore
+4.2.0-rc2-windowsservercore-1803
 4.2.0-rc2-windowsservercore-ltsc2016
 4.2.0-rc3
 4.2.0-rc3-bionic
 4.2.0-rc3-windowsservercore
 4.2.0-rc3-windowsservercore-1803
+4.2.0-rc3-windowsservercore-ltsc2016
 4.2.0-rc4
 4.2.0-rc4-bionic
 4.2.0-rc4-windowsservercore
-4.2.0-rc4-windowsservercore-ltsc2016 4.2.0-rc4-windowsservercore-1803
+4.2.0-rc4-windowsservercore-1803
+4.2.0-rc4-windowsservercore-ltsc2016
 4.2.0-rc5
 4.2.0-rc5-bionic
 4.2.0-rc5-windowsservercore
@@ -701,7 +778,8 @@
 4.2.0-rc5-windowsservercore-ltsc2016
 4.2.0-rc7
 4.2.0-rc7-bionic
-4.2.0-rc7-windowsservercore-1803 4.2.0-rc7-windowsservercore
+4.2.0-rc7-windowsservercore
+4.2.0-rc7-windowsservercore-1803
 4.2.0-rc7-windowsservercore-ltsc2016
 4.2.0-rc8
 4.2.0-rc8-bionic
@@ -709,8 +787,9 @@
 4.2.0-rc8-windowsservercore-1803
 4.2.0-rc8-windowsservercore-ltsc2016
 4.2.0-windowsservercore
-4.2.0-windowsservercore-ltsc2016 4.2.0-windowsservercore-1803
-4.2.1 4.2-windowsservercore-1803
+4.2.0-windowsservercore-1803
+4.2.0-windowsservercore-ltsc2016
+4.2.1
 4.2.1-bionic
 4.2.1-windowsservercore
 4.2.1-windowsservercore-1803
@@ -722,20 +801,24 @@
 4.2.2-windowsservercore-1809
 4.2.2-windowsservercore-ltsc2016
 4.2.3
+4.2.3-bionic
 4.2.3-windowsservercore
 4.2.3-windowsservercore-1809
 4.2.3-windowsservercore-ltsc2016
 4.2.4
 4.2.4-windowsservercore
-4.2.4-windowsservercore-ltsc2016 4.2.4-windowsservercore-1809
+4.2.4-windowsservercore-1809
+4.2.4-windowsservercore-ltsc2016
 4.2.5
 4.2.5-bionic
 4.2.5-windowsservercore
-4.2.5-windowsservercore-ltsc2016 4.2.5-windowsservercore-1809
+4.2.5-windowsservercore-1809
+4.2.5-windowsservercore-ltsc2016
 4.2.6
 4.2.6-bionic
 4.2.6-windowsservercore
-4.2.6-windowsservercore-ltsc2016 4.2.6-windowsservercore-1809
+4.2.6-windowsservercore-1809
+4.2.6-windowsservercore-ltsc2016
 4.2.7
 4.2.7-bionic
 4.2.7-windowsservercore
@@ -743,9 +826,11 @@
 4.2.7-windowsservercore-ltsc2016
 4.2.8
 4.2.8-bionic
-4.2.8-windowsservercore-1809 4.2.8-windowsservercore
+4.2.8-windowsservercore
+4.2.8-windowsservercore-1809
 4.2.8-windowsservercore-ltsc2016
-4.2.9-bionic 4.2.9
+4.2.9
+4.2.9-bionic
 4.2.9-windowsservercore
 4.2.9-windowsservercore-1809
 4.2.9-windowsservercore-ltsc2016
@@ -754,14 +839,16 @@
 4.2.10-windowsservercore
 4.2.10-windowsservercore-1809
 4.2.10-windowsservercore-ltsc2016
-4.2.11-bionic 4.2.11
+4.2.11
+4.2.11-bionic
 4.2.11-windowsservercore
 4.2.11-windowsservercore-1809
 4.2.11-windowsservercore-ltsc2016
 4.2.12
 4.2.12-bionic
 4.2.12-windowsservercore
-4.2.12-windowsservercore-ltsc2016 4.2.12-windowsservercore-1809
+4.2.12-windowsservercore-1809
+4.2.12-windowsservercore-ltsc2016
 4.2.13
 4.2.13-bionic
 4.2.13-windowsservercore
@@ -773,6 +860,7 @@
 4.2.14-nanoserver-1809
 4.2.14-windowsservercore
 4.2.14-windowsservercore-1809
+4.2.14-windowsservercore-ltsc2016
 4.2.15
 4.2.15-bionic
 4.2.15-nanoserver
@@ -780,7 +868,8 @@
 4.2.15-rc0
 4.2.15-rc0-bionic
 4.2.15-rc0-nanoserver
-4.2.15-rc0-windowsservercore 4.2.15-rc0-nanoserver-1809
+4.2.15-rc0-nanoserver-1809
+4.2.15-rc0-windowsservercore
 4.2.15-rc0-windowsservercore-1809
 4.2.15-rc0-windowsservercore-ltsc2016
 4.2.15-windowsservercore
@@ -789,6 +878,7 @@
 4.2.16
 4.2.16-bionic
 4.2.16-nanoserver
+4.2.16-nanoserver-1809
 4.2.16-rc0
 4.2.16-rc0-bionic
 4.2.16-rc0-nanoserver
@@ -797,45 +887,50 @@
 4.2.16-rc0-windowsservercore-1809
 4.2.16-rc0-windowsservercore-ltsc2016
 4.2.16-windowsservercore
-4.2.16-windowsservercore-1809 4.2.16-nanoserver-1809
+4.2.16-windowsservercore-1809
 4.2.16-windowsservercore-ltsc2016
 4.2.17
+4.2.17-bionic
 4.2.17-nanoserver
 4.2.17-nanoserver-1809
+4.2.17-nanoserver-ltsc2022
+4.2.17-rc0
 4.2.17-rc0-bionic
-4.2.17-rc0-nanoserver 4.2.17-rc0
+4.2.17-rc0-nanoserver
 4.2.17-rc0-nanoserver-1809
 4.2.17-rc0-windowsservercore
 4.2.17-rc0-windowsservercore-1809
 4.2.17-rc0-windowsservercore-ltsc2016
-4.2.17-windowsservercore 4.2.17-nanoserver-ltsc2022
+4.2.17-windowsservercore
 4.2.17-windowsservercore-1809
 4.2.17-windowsservercore-ltsc2016
 4.2.17-windowsservercore-ltsc2022
 4.2.18
 4.2.18-bionic
 4.2.18-nanoserver
-4.2.18-nanoserver-ltsc2022 4.2.18-nanoserver-1809
+4.2.18-nanoserver-1809
+4.2.18-nanoserver-ltsc2022
 4.2.18-rc0
 4.2.18-rc0-bionic
 4.2.18-rc0-nanoserver
 4.2.18-rc0-nanoserver-1809
 4.2.18-rc0-nanoserver-ltsc2022
 4.2.18-rc0-windowsservercore
-4.2.18-rc0-windowsservercore-ltsc2016 4.2.18-rc0-windowsservercore-1809
+4.2.18-rc0-windowsservercore-1809
+4.2.18-rc0-windowsservercore-ltsc2016
 4.2.18-rc0-windowsservercore-ltsc2022
 4.2.18-windowsservercore
 4.2.18-windowsservercore-1809
 4.2.18-windowsservercore-ltsc2016
 4.2.18-windowsservercore-ltsc2022
-4.2.19 4.4.14-rc0-focal
+4.2.19
 4.2.19-bionic
 4.2.19-nanoserver
 4.2.19-nanoserver-1809
 4.2.19-nanoserver-ltsc2022
 4.2.19-rc0
 4.2.19-rc0-bionic
-4.2.19-rc0-nanoserver 4.4.12-windowsservercore-ltsc2022
+4.2.19-rc0-nanoserver
 4.2.19-rc0-nanoserver-1809
 4.2.19-rc0-nanoserver-ltsc2022
 4.2.19-rc0-windowsservercore
@@ -852,14 +947,17 @@
 4.2.20-rc0
 4.2.20-rc0-bionic
 4.2.20-rc0-nanoserver
-4.2.20-rc0-nanoserver-ltsc2022 4.2.20-rc0-nanoserver-1809
+4.2.20-rc0-nanoserver-1809
+4.2.20-rc0-nanoserver-ltsc2022
 4.2.20-rc0-windowsservercore
 4.2.20-rc0-windowsservercore-1809
 4.2.20-rc0-windowsservercore-ltsc2022
 4.2.20-windowsservercore
-4.2.20-windowsservercore-ltsc2022 4.2.20-windowsservercore-1809
+4.2.20-windowsservercore-1809
+4.2.20-windowsservercore-ltsc2022
 4.2.21
 4.2.21-bionic
+4.2.21-nanoserver
 4.2.21-nanoserver-1809
 4.2.21-nanoserver-ltsc2022
 4.2.21-rc0
@@ -870,10 +968,12 @@
 4.2.21-rc0-windowsservercore
 4.2.21-rc0-windowsservercore-1809
 4.2.21-rc0-windowsservercore-ltsc2022
-4.2.21-windowsservercore 4.2.21-nanoserver
+4.2.21-windowsservercore
 4.2.21-windowsservercore-1809
 4.2.21-windowsservercore-ltsc2022
-4.2.22-nanoserver 4.2.22
+4.2.22
+4.2.22-bionic
+4.2.22-nanoserver
 4.2.22-nanoserver-1809
 4.2.22-nanoserver-ltsc2022
 4.2.22-rc0
@@ -883,22 +983,24 @@
 4.2.22-rc0-nanoserver-ltsc2022
 4.2.22-rc0-windowsservercore
 4.2.22-rc0-windowsservercore-1809
+4.2.22-rc0-windowsservercore-ltsc2022
 4.2.22-windowsservercore
 4.2.22-windowsservercore-1809
 4.2.22-windowsservercore-ltsc2022
-4.2.23 4.2-bionic
+4.2.23
 4.2.23-bionic
 4.2.23-nanoserver
 4.2.23-nanoserver-1809
 4.2.23-nanoserver-ltsc2022
 4.2.23-rc0
-4.2.23-rc0-bionic 4.2.22-bionic
+4.2.23-rc0-bionic
 4.2.23-rc0-nanoserver
 4.2.23-rc0-nanoserver-1809
-4.2.23-rc0-windowsservercore 4.2.23-rc0-nanoserver-ltsc2022
+4.2.23-rc0-nanoserver-ltsc2022
+4.2.23-rc0-windowsservercore
 4.2.23-rc0-windowsservercore-1809
 4.2.23-rc0-windowsservercore-ltsc2022
-4.2.23-rc1 4.2-rc-windowsservercore-ltsc2022
+4.2.23-rc1
 4.2.23-rc1-bionic
 4.2.23-rc1-nanoserver
 4.2.23-rc1-nanoserver-1809
@@ -918,7 +1020,7 @@
 4.4-rc
 4.4-rc-bionic
 4.4-rc-focal
-4.4-rc-nanoserver 6.0.2-windowsservercore-ltsc2022
+4.4-rc-nanoserver
 4.4-rc-nanoserver-1809
 4.4-rc-nanoserver-ltsc2022
 4.4-rc-windowsservercore
@@ -927,6 +1029,7 @@
 4.4-rc-windowsservercore-ltsc2022
 4.4-windowsservercore
 4.4-windowsservercore-1809
+4.4-windowsservercore-ltsc2016
 4.4-windowsservercore-ltsc2022
 4.4.0
 4.4.0-bionic
@@ -939,21 +1042,24 @@
 4.4.0-rc8-bionic
 4.4.0-rc8-windowsservercore
 4.4.0-rc8-windowsservercore-1809
+4.4.0-rc8-windowsservercore-ltsc2016
 4.4.0-rc9
 4.4.0-rc9-bionic
-4.4.0-rc9-windowsservercore 4.4.0-rc8-windowsservercore-ltsc2016
+4.4.0-rc9-windowsservercore
 4.4.0-rc9-windowsservercore-1809
 4.4.0-rc9-windowsservercore-ltsc2016
 4.4.0-rc10
+4.4.0-rc10-bionic
 4.4.0-rc10-windowsservercore
 4.4.0-rc10-windowsservercore-1809
 4.4.0-rc10-windowsservercore-ltsc2016
-4.4.0-rc11 4.4.0-rc10-bionic
+4.4.0-rc11
 4.4.0-rc11-bionic
 4.4.0-rc11-windowsservercore
 4.4.0-rc11-windowsservercore-1809
 4.4.0-rc11-windowsservercore-ltsc2016
-4.4.0-rc12-bionic 4.4.0-rc12
+4.4.0-rc12
+4.4.0-rc12-bionic
 4.4.0-rc12-windowsservercore
 4.4.0-rc12-windowsservercore-1809
 4.4.0-rc12-windowsservercore-ltsc2016
@@ -961,18 +1067,22 @@
 4.4.0-rc13-bionic
 4.4.0-rc13-windowsservercore
 4.4.0-rc13-windowsservercore-1809
+4.4.0-rc13-windowsservercore-ltsc2016
 4.4.0-rc14
 4.4.0-rc14-bionic
-4.4.0-rc14-windowsservercore 4.4.0-rc13-windowsservercore-ltsc2016
+4.4.0-rc14-windowsservercore
 4.4.0-rc14-windowsservercore-1809
 4.4.0-rc14-windowsservercore-ltsc2016
-4.4.0-windowsservercore-1809 4.4.0-windowsservercore
+4.4.0-windowsservercore
+4.4.0-windowsservercore-1809
 4.4.0-windowsservercore-ltsc2016
 4.4.1
 4.4.1-bionic
 4.4.1-windowsservercore
-4.4.1-windowsservercore-ltsc2016 4.4.1-windowsservercore-1809
-4.4.2-bionic 4.4.2
+4.4.1-windowsservercore-1809
+4.4.1-windowsservercore-ltsc2016
+4.4.2
+4.4.2-bionic
 4.4.2-windowsservercore
 4.4.2-windowsservercore-1809
 4.4.2-windowsservercore-ltsc2016
@@ -1001,15 +1111,18 @@
 4.4.7
 4.4.7-focal
 4.4.7-nanoserver
-4.4.7-nanoserver-1809 4.0.26-rc0-windowsservercore-1809
-4.4.7-rc0-focal 4.4.7-rc0
+4.4.7-nanoserver-1809
+4.4.7-rc0
+4.4.7-rc0-focal
 4.4.7-rc0-nanoserver
 4.4.7-rc0-nanoserver-1809
 4.4.7-rc0-windowsservercore
-4.4.7-rc0-windowsservercore-ltsc2016 4.4.7-rc0-windowsservercore-1809
+4.4.7-rc0-windowsservercore-1809
+4.4.7-rc0-windowsservercore-ltsc2016
 4.4.7-rc1
 4.4.7-rc1-focal
-4.4.7-rc1-nanoserver-1809 4.4.7-rc1-nanoserver
+4.4.7-rc1-nanoserver
+4.4.7-rc1-nanoserver-1809
 4.4.7-rc1-windowsservercore
 4.4.7-rc1-windowsservercore-1809
 4.4.7-rc1-windowsservercore-ltsc2016
@@ -1018,17 +1131,19 @@
 4.4.7-windowsservercore-ltsc2016
 4.4.8
 4.4.8-focal
-4.4.8-nanoserver-1809 4.4.8-nanoserver
+4.4.8-nanoserver
+4.4.8-nanoserver-1809
 4.4.8-rc0
 4.4.8-rc0-focal
 4.4.8-rc0-nanoserver
-4.4.8-rc0-windowsservercore 4.4.8-rc0-nanoserver-1809
+4.4.8-rc0-nanoserver-1809
+4.4.8-rc0-windowsservercore
 4.4.8-rc0-windowsservercore-1809
 4.4.8-rc0-windowsservercore-ltsc2016
 4.4.8-windowsservercore
 4.4.8-windowsservercore-1809
 4.4.8-windowsservercore-ltsc2016
-4.4.9 4.4.10-rc0-windowsservercore-ltsc2016
+4.4.9
 4.4.9-focal
 4.4.9-nanoserver
 4.4.9-nanoserver-1809
@@ -1036,13 +1151,14 @@
 4.4.9-rc0-focal
 4.4.9-rc0-nanoserver
 4.4.9-rc0-nanoserver-1809
-4.4.9-rc0-windowsservercore-1809 4.4.9-rc0-windowsservercore
+4.4.9-rc0-windowsservercore
+4.4.9-rc0-windowsservercore-1809
 4.4.9-rc0-windowsservercore-ltsc2016
 4.4.9-windowsservercore
 4.4.9-windowsservercore-1809
 4.4.9-windowsservercore-ltsc2016
 4.4.10
-4.4.10-focal 4.2.17-bionic
+4.4.10-focal
 4.4.10-nanoserver
 4.4.10-nanoserver-1809
 4.4.10-nanoserver-ltsc2022
@@ -1052,15 +1168,17 @@
 4.4.10-rc0-nanoserver-1809
 4.4.10-rc0-windowsservercore
 4.4.10-rc0-windowsservercore-1809
+4.4.10-rc0-windowsservercore-ltsc2016
 4.4.10-windowsservercore
 4.4.10-windowsservercore-1809
 4.4.10-windowsservercore-ltsc2016
+4.4.10-windowsservercore-ltsc2022
 4.4.11
 4.4.11-focal
-4.4.11-nanoserver 4.4-windowsservercore-ltsc2016
+4.4.11-nanoserver
 4.4.11-nanoserver-1809
 4.4.11-nanoserver-ltsc2022
-4.4.11-rc0 4.4.10-windowsservercore-ltsc2022
+4.4.11-rc0
 4.4.11-rc0-focal
 4.4.11-rc0-nanoserver
 4.4.11-rc0-nanoserver-1809
@@ -1072,7 +1190,8 @@
 4.4.11-rc1
 4.4.11-rc1-focal
 4.4.11-rc1-nanoserver
-4.4.11-rc1-nanoserver-ltsc2022 4.4.11-rc1-nanoserver-1809
+4.4.11-rc1-nanoserver-1809
+4.4.11-rc1-nanoserver-ltsc2022
 4.4.11-rc1-windowsservercore
 4.4.11-rc1-windowsservercore-1809
 4.4.11-rc1-windowsservercore-ltsc2016
@@ -1090,49 +1209,59 @@
 4.4.12-rc0-focal
 4.4.12-rc0-nanoserver
 4.4.12-rc0-nanoserver-1809
-4.4.12-rc0-windowsservercore 4.4.12-rc0-nanoserver-ltsc2022
+4.4.12-rc0-nanoserver-ltsc2022
+4.4.12-rc0-windowsservercore
 4.4.12-rc0-windowsservercore-1809
 4.4.12-rc0-windowsservercore-ltsc2016
 4.4.12-rc0-windowsservercore-ltsc2022
 4.4.12-rc1
-4.4.12-rc1-focal 5.0.5-focal
+4.4.12-rc1-focal
 4.4.12-rc1-nanoserver
 4.4.12-rc1-nanoserver-1809
 4.4.12-rc1-nanoserver-ltsc2022
-4.4.12-rc1-windowsservercore-ltsc2016 4.4.12-rc1-windowsservercore-1809
+4.4.12-rc1-windowsservercore
+4.4.12-rc1-windowsservercore-1809
+4.4.12-rc1-windowsservercore-ltsc2016
 4.4.12-rc1-windowsservercore-ltsc2022
 4.4.12-windowsservercore
 4.4.12-windowsservercore-1809
+4.4.12-windowsservercore-ltsc2022
 4.4.13
 4.4.13-focal
 4.4.13-nanoserver
 4.4.13-nanoserver-1809
 4.4.13-nanoserver-ltsc2022
 4.4.13-rc0
+4.4.13-rc0-focal
 4.4.13-rc0-nanoserver
 4.4.13-rc0-nanoserver-1809
 4.4.13-rc0-nanoserver-ltsc2022
-4.4.13-rc0-windowsservercore-1809 4.4.13-rc0-windowsservercore
+4.4.13-rc0-windowsservercore
+4.4.13-rc0-windowsservercore-1809
 4.4.13-rc0-windowsservercore-ltsc2022
 4.4.13-windowsservercore
-4.4.13-windowsservercore-ltsc2022 4.4.13-windowsservercore-1809
+4.4.13-windowsservercore-1809
+4.4.13-windowsservercore-ltsc2022
 4.4.14
 4.4.14-focal
-4.4.14-nanoserver-1809 5.0.9-focal
+4.4.14-nanoserver
+4.4.14-nanoserver-1809
 4.4.14-nanoserver-ltsc2022
 4.4.14-rc0
+4.4.14-rc0-focal
 4.4.14-rc0-nanoserver
 4.4.14-rc0-nanoserver-1809
 4.4.14-rc0-nanoserver-ltsc2022
 4.4.14-rc0-windowsservercore
 4.4.14-rc0-windowsservercore-1809
 4.4.14-rc0-windowsservercore-ltsc2022
-4.4.14-windowsservercore 4.4.14-nanoserver
+4.4.14-windowsservercore
 4.4.14-windowsservercore-1809
 4.4.14-windowsservercore-ltsc2022
 4.4.15
+4.4.15-focal
 4.4.15-nanoserver
-4.4.15-nanoserver-1809 4.2.22-rc0-windowsservercore-ltsc2022
+4.4.15-nanoserver-1809
 4.4.15-nanoserver-ltsc2022
 4.4.15-windowsservercore
 4.4.15-windowsservercore-1809
@@ -1142,7 +1271,7 @@
 4.4.16-nanoserver
 4.4.16-nanoserver-1809
 4.4.16-nanoserver-ltsc2022
-4.4.16-rc0 5.0.10-windowsservercore
+4.4.16-rc0
 4.4.16-rc0-focal
 4.4.16-rc0-nanoserver
 4.4.16-rc0-nanoserver-1809
@@ -1152,11 +1281,13 @@
 4.4.16-rc0-windowsservercore-ltsc2022
 4.4.16-windowsservercore
 4.4.16-windowsservercore-1809
-4.4.17-focal 4.0.28-xenial
-4.4.17-nanoserver 4.4.17
+4.4.16-windowsservercore-ltsc2022
+4.4.17
+4.4.17-focal
+4.4.17-nanoserver
 4.4.17-nanoserver-1809
 4.4.17-nanoserver-ltsc2022
-4.4.17-rc0 4.4.16-windowsservercore-ltsc2022
+4.4.17-rc0
 4.4.17-rc0-focal
 4.4.17-rc0-nanoserver
 4.4.17-rc0-nanoserver-1809
@@ -1169,7 +1300,8 @@
 4.4.17-rc2-nanoserver
 4.4.17-rc2-nanoserver-1809
 4.4.17-rc2-nanoserver-ltsc2022
-4.4.17-rc2-windowsservercore-1809 4.4.17-rc2-windowsservercore
+4.4.17-rc2-windowsservercore
+4.4.17-rc2-windowsservercore-1809
 4.4.17-rc2-windowsservercore-ltsc2022
 4.4.17-windowsservercore
 4.4.17-windowsservercore-1809
@@ -1177,18 +1309,20 @@
 4.4.18
 4.4.18-focal
 4.4.18-nanoserver
-4.4.18-nanoserver-ltsc2022 4.4.18-nanoserver-1809
+4.4.18-nanoserver-1809
+4.4.18-nanoserver-ltsc2022
 4.4.18-rc0
 4.4.18-rc0-focal
 4.4.18-rc0-nanoserver
 4.4.18-rc0-nanoserver-1809
 4.4.18-rc0-nanoserver-ltsc2022
-4.4.18-rc0-windowsservercore-1809 4.4.18-rc0-windowsservercore
+4.4.18-rc0-windowsservercore
+4.4.18-rc0-windowsservercore-1809
 4.4.18-rc0-windowsservercore-ltsc2022
 4.4.18-windowsservercore
 4.4.18-windowsservercore-1809
 4.4.18-windowsservercore-ltsc2022
-4.9-rc 4.2.14-windowsservercore-ltsc2016
+4.9-rc
 4.9-rc-focal
 4.9-rc-nanoserver
 4.9-rc-nanoserver-1809
@@ -1199,21 +1333,25 @@
 4.9.0-rc1-focal
 4.9.0-rc1-nanoserver
 4.9.0-rc1-nanoserver-1809
-4.9.0-rc1-windowsservercore-1809 4.9.0-rc1-windowsservercore
+4.9.0-rc1-windowsservercore
+4.9.0-rc1-windowsservercore-1809
 4.9.0-rc1-windowsservercore-ltsc2016
 5
 5-focal
 5-nanoserver
-5-nanoserver-ltsc2022 5-nanoserver-1809
+5-nanoserver-1809
+5-nanoserver-ltsc2022
 5-windowsservercore
 5-windowsservercore-1809
 5-windowsservercore-ltsc2016
 5-windowsservercore-ltsc2022
 5.0
+5.0-focal
 5.0-nanoserver
 5.0-nanoserver-1809
 5.0-nanoserver-ltsc2022
 5.0-rc
+5.0-rc-focal
 5.0-rc-nanoserver
 5.0-rc-nanoserver-1809
 5.0-rc-windowsservercore
@@ -1222,6 +1360,7 @@
 5.0-windowsservercore
 5.0-windowsservercore-1809
 5.0-windowsservercore-ltsc2016
+5.0-windowsservercore-ltsc2022
 5.0.0
 5.0.0-focal
 5.0.0-nanoserver
@@ -1235,7 +1374,8 @@
 5.0.0-rc1-windowsservercore-ltsc2016
 5.0.0-rc2
 5.0.0-rc2-focal
-5.0.0-rc2-nanoserver-1809 5.0.0-rc2-nanoserver
+5.0.0-rc2-nanoserver
+5.0.0-rc2-nanoserver-1809
 5.0.0-rc2-windowsservercore
 5.0.0-rc2-windowsservercore-1809
 5.0.0-rc2-windowsservercore-ltsc2016
@@ -1249,10 +1389,11 @@
 5.0.0-rc4
 5.0.0-rc4-focal
 5.0.0-rc4-nanoserver
-5.0.0-rc4-windowsservercore 5.0.0-rc4-nanoserver-1809
+5.0.0-rc4-nanoserver-1809
+5.0.0-rc4-windowsservercore
 5.0.0-rc4-windowsservercore-1809
 5.0.0-rc4-windowsservercore-ltsc2016
-5.0.0-rc7 5.0-rc-focal
+5.0.0-rc7
 5.0.0-rc7-focal
 5.0.0-rc7-nanoserver
 5.0.0-rc7-nanoserver-1809
@@ -1279,7 +1420,8 @@
 5.0.3
 5.0.3-focal
 5.0.3-nanoserver
-5.0.3-windowsservercore 5.0.3-nanoserver-1809
+5.0.3-nanoserver-1809
+5.0.3-windowsservercore
 5.0.3-windowsservercore-1809
 5.0.3-windowsservercore-ltsc2016
 5.0.4
@@ -1290,6 +1432,7 @@
 5.0.4-windowsservercore-1809
 5.0.4-windowsservercore-ltsc2016
 5.0.5
+5.0.5-focal
 5.0.5-nanoserver
 5.0.5-nanoserver-1809
 5.0.5-nanoserver-ltsc2022
@@ -1299,7 +1442,7 @@
 5.0.5-windowsservercore-ltsc2022
 5.0.6
 5.0.6-focal
-5.0.6-nanoserver 4.4.13-rc0-focal
+5.0.6-nanoserver
 5.0.6-nanoserver-1809
 5.0.6-nanoserver-ltsc2022
 5.0.6-windowsservercore
@@ -1308,18 +1451,21 @@
 5.0.7
 5.0.7-focal
 5.0.7-nanoserver
-5.0.7-nanoserver-ltsc2022 5.0.7-nanoserver-1809
+5.0.7-nanoserver-1809
+5.0.7-nanoserver-ltsc2022
 5.0.7-windowsservercore
 5.0.7-windowsservercore-1809
 5.0.7-windowsservercore-ltsc2022
 5.0.8
 5.0.8-focal
 5.0.8-nanoserver
-5.0.8-nanoserver-ltsc2022 5.0.8-nanoserver-1809
+5.0.8-nanoserver-1809
+5.0.8-nanoserver-ltsc2022
 5.0.8-windowsservercore
 5.0.8-windowsservercore-1809
 5.0.8-windowsservercore-ltsc2022
 5.0.9
+5.0.9-focal
 5.0.9-nanoserver
 5.0.9-nanoserver-1809
 5.0.9-nanoserver-ltsc2022
@@ -1327,36 +1473,40 @@
 5.0.9-windowsservercore-1809
 5.0.9-windowsservercore-ltsc2022
 5.0.10
-5.0.10-focal 4.4.15-focal
+5.0.10-focal
 5.0.10-nanoserver
 5.0.10-nanoserver-1809
 5.0.10-nanoserver-ltsc2022
+5.0.10-windowsservercore
 5.0.10-windowsservercore-1809
 5.0.10-windowsservercore-ltsc2022
 5.0.11
 5.0.11-focal
-5.0.11-nanoserver 5.0.11-nanoserver-ltsc2022
+5.0.11-nanoserver
 5.0.11-nanoserver-1809
+5.0.11-nanoserver-ltsc2022
 5.0.11-windowsservercore
 5.0.11-windowsservercore-1809
 5.0.11-windowsservercore-ltsc2022
 5.0.12
 5.0.12-focal
 5.0.12-nanoserver
+5.0.12-nanoserver-1809
 5.0.12-nanoserver-ltsc2022
-5.0.12-windowsservercore 5.0.12-nanoserver-1809
+5.0.12-windowsservercore
 5.0.12-windowsservercore-1809
 5.0.12-windowsservercore-ltsc2022
 5.0.13
 5.0.13-focal
 5.0.13-nanoserver
 5.0.13-nanoserver-1809
-5.0.13-windowsservercore 5.0.13-nanoserver-ltsc2022
+5.0.13-nanoserver-ltsc2022
+5.0.13-windowsservercore
 5.0.13-windowsservercore-1809
 5.0.13-windowsservercore-ltsc2022
-5.0.14 5.0-focal
+5.0.14
 5.0.14-focal
-5.0.14-nanoserver 5.0-windowsservercore-ltsc2022
+5.0.14-nanoserver
 5.0.14-nanoserver-1809
 5.0.14-nanoserver-ltsc2022
 5.0.14-windowsservercore
@@ -1369,9 +1519,10 @@
 6-nanoserver-ltsc2022
 6-windowsservercore
 6-windowsservercore-1809
+6-windowsservercore-ltsc2022
 6.0
 6.0-focal
-6.0-nanoserver 6-windowsservercore-ltsc2022
+6.0-nanoserver
 6.0-nanoserver-1809
 6.0-nanoserver-ltsc2022
 6.0-windowsservercore
@@ -1392,35 +1543,42 @@
 6.0.2-nanoserver-ltsc2022
 6.0.2-windowsservercore
 6.0.2-windowsservercore-1809
+6.0.2-windowsservercore-ltsc2022
 6.0.3
 6.0.3-focal
 6.0.3-nanoserver
 6.0.3-nanoserver-1809
 6.0.3-nanoserver-ltsc2022
-6.0.3-windowsservercore-1809 6.0.3-windowsservercore
+6.0.3-windowsservercore
+6.0.3-windowsservercore-1809
 6.0.3-windowsservercore-ltsc2022
 bionic
 focal
 jessie
+latest
 nanoserver
 nanoserver-1809
 nanoserver-ltsc2022
 rc
-rc-windowsservercore rc-bionic
+rc-bionic
+rc-jessie
+rc-windowsservercore
 rc-windowsservercore-1709
 rc-windowsservercore-1803
 rc-windowsservercore-ltsc2016
 rc-xenial
-unstable-bionic unstable
+unstable
+unstable-bionic
 unstable-jessie
 unstable-windowsservercore
 unstable-windowsservercore-1709
 unstable-windowsservercore-1803
 unstable-windowsservercore-ltsc2016
+unstable-xenial
 windowsservercore
+windowsservercore-1709
 windowsservercore-1803
 windowsservercore-1809
 windowsservercore-ltsc2016
 windowsservercore-ltsc2022
 xenial
- latest

@@ -1,4 +1,4 @@
-FROM library/mongo:5-focal
+FROM library/mongo:6.0
 ARG DO_UPDATE=y
 ARG NONINTERACTIVE=y
 ARG DEBIAN_FRONTEND=noninteractive
