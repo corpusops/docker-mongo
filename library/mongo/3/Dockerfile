@@ -1,6 +1,6 @@
-ARG ANCESTOR=library/mongo:4.4
+ARG ANCESTOR=library/mongo:3
 ARG RSYNC=corpusops/rsync
-FROM library/mongo:4.4 AS final
+FROM library/mongo:3 AS final
 ARG DO_UPDATE=y
 ARG NONINTERACTIVE=y
 ARG DEBIAN_FRONTEND=noninteractive

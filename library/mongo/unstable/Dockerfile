@@ -1,6 +1,6 @@
-ARG ANCESTOR=library/mongo:7.0
+ARG ANCESTOR=library/mongo:unstable
 ARG RSYNC=corpusops/rsync
-FROM library/mongo:7.0 AS final
+FROM library/mongo:unstable AS final
 ARG DO_UPDATE=y
 ARG NONINTERACTIVE=y
 ARG DEBIAN_FRONTEND=noninteractive
@@ -14,6 +14,8 @@ ARG DOCKERIZE_RELEASE=latest
 ARG CURL_SSL_OPTS=--tlsv1
 ARG DOCKER_IMAGES_COMMIT=master
 ARG COPS_HELPERS=/cops_helpers
+#RUN cp -rf /etc/apt/sources.list.d /etc/apt/sources.list.d.bak && sed -i -re "s/\[.*signed-by.*\]/[trusted=yes]/g" /etc/apt/sources.list.d/* && apt update -qqy && apt-get install -y gpg && apt-key adv --keyserver keyserver.ubuntu.com --refresh-keys && cp /etc/apt/sources.list.d.bak/* /etc/apt/sources.list.d
+RUN sed -i -re "s/\[.*signed-by.*\]/[trusted=yes]/g" /etc/apt/sources.list.d/*
 ADD \
     helpers/up.sh \
     helpers/add_gosu.sh \
