@@ -65,7 +65,9 @@ jobs:
       fail-fast: false
       matrix:
         IMAGES:
-        - "library/mongo/3 library/mongo/latest library/mongo/4"
+        - "library/mongo/4 library/mongo/4.4 library/mongo/5 library/mongo/5.0"
+        - "library/mongo/6 library/mongo/6.0 library/mongo/7 library/mongo/7.0"
+        - "library/mongo/4"
         #- "corpusops/test/a corpusops/test/b corpusops/test/c"
         # all images that werent explicitly told to be built would be built in the next batches
         # we span them onto N jobs
