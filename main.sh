@@ -260,7 +260,7 @@ SKIPPED_TAGS="$SKIP_TF|$SKIP_MINOR_OS|$SKIP_NODE|$SKIP_DOCKER|$SKIP_MINIO|$SKIP_
 CURRENT_TS=$(date +%s)
 IMAGES_SKIP_NS="((mailhog|postgis|pgrouting(-bare)?|^library|dejavu|(minio/(minio|mc))))"
 
-MONGO_SKIPPED_TAGS="mongo:(2|3\.[0-9]+|.*(focal|jammy|windows|nano|-rc|[0-9]+\.[0-9]+\.[0-9]+))"
+MONGO_SKIPPED_TAGS="mongo:(rc|2|(3|4|5|6|7)\.[0-9]+|.*(noble|xenial|bionic|stretch|jessie|focal|jammy|windows|nano|-rc|[0-9]+\.[0-9]+\.[0-9]+).*)"
 SKIPPED_TAGS="$MONGO_SKIPPED_TAGS"
 PROTECTED_VERSIONS=""
 
@@ -290,17 +290,15 @@ NODE_TOP="$(echo $(find_top_node))"
 MAILU_VERSiON=1.7
 
 BATCHED_IMAGES="\
-library/mongo/4\
- library/mongo/4.4\
- library/mongo/5\
- library/mongo/5.0::30
-library/mongo/6\
- library/mongo/6.0\
- library/mongo/7\
- library/mongo/7.0::30
+library/mongo/latest\
+ library/mongo/unstable::30
 library/mongo/3\
- library/mongo/2\
- library/mongo/4::7
+ library/mongo/4\
+ library/mongo/5\
+ library/mongo/6::30
+library/mongo/7\
+ library/mongo/8\
+ library/mongo/8.0::30
 "
 SKIP_REFRESH_ANCESTORS=${SKIP_REFRESH_ANCESTORS-}
 
